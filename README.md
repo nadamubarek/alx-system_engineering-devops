@@ -1,1 +1,1 @@
-This repo is to practise the shell basics
+This repo is to practise the shell
