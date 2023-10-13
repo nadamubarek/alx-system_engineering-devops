@@ -1,2 +1,6 @@
 #!/bin/bash
+<<<<<<< HEAD
 find . -empty | cut -d '/' -f 2
+=======
+find . -size 0 -type d -o -type f | xargs ls -a -1
+>>>>>>> 1f07403db21c5c816436ac766e0b2fd3e05183b0
